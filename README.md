@@ -14,11 +14,5 @@ npm install
 npm run dev
 ```
 
-### References
-https://inertiajs.com/
-https://github.com/boxybird/inertia-wordpress
-https://vuejs.org/
-
-
 ### License
 [MIT license](https://opensource.org/licenses/MIT)
